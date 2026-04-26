@@ -11,9 +11,10 @@ credits: true
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+
 ## The Author
 
-{% include feature/image.html objectid="https://www.lib.uidaho.edu/collectionbuilder/demo-objects/mg101_b6_photographs_01.jpg" width="75" alt="Karen Kaut" %}
+{% include feature/image.html objectid="Karen Kaut.jpeg" width="75" caption="Karen Kaut" %}
 
 ## About the Collection
 
