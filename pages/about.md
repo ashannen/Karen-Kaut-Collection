@@ -14,7 +14,7 @@ credits: true
 
 ## The Author
 
-{% include feature/image.html objectid="Karen Kaut.jpeg" width="75" caption="Karen Kaut" %}
+{% include feature/image.html objectid="Karen Kaut.jpg" width="75" caption="Karen Kaut" %}
 
 ## About the Collection
 
